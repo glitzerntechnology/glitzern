@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Weighbridge Sawit">
+</Property><Property Name="Solution File" Value="D:\Weightbridge System\Weightbridge Source Code\Modified WB\RKPMS Weighbridge - VS2010\Weightbridge For Sabah Modified - MATU\Weighbridge Sawit\Weighbridge Sawit.sln">
+</Property><Property Name="Date" Value="Wednesday, 3 April, 2019">
+</Property><Property Name="Time" Value="16:10 PM">
+</Property></Properties><Event ErrorLevel="4" Project="Weighbridge" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="Weighbridge" Source="Weighbridge\Weighbridge.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Weighbridge" Source="Weighbridge\Weighbridge.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Weighbridge Sawit.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Weighbridge Sawit.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Weighbridge" Source="Weighbridge\Weighbridge.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Weighbridge" Source="Weighbridge\Weighbridge.vbproj" Description="References to Microsoft.VisualBasic.PowerPacks.Vs were updated to Microsoft.VisualBasic.PowerPacks.Vs 10.0.">
+</Event></UpgradeLog>

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Weighbridge", "Weighbridge\Weighbridge.vbproj", "{BEFA1E9F-D553-43BF-97EB-2D12204EBCE3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SWSetup", "SWSetup\SWSetup.vdproj", "{B8900F25-D217-4098-85A5-D987EA509889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFA1E9F-D553-43BF-97EB-2D12204EBCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFA1E9F-D553-43BF-97EB-2D12204EBCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFA1E9F-D553-43BF-97EB-2D12204EBCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFA1E9F-D553-43BF-97EB-2D12204EBCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8900F25-D217-4098-85A5-D987EA509889}.Debug|Any CPU.ActiveCfg = Debug
+		{B8900F25-D217-4098-85A5-D987EA509889}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
